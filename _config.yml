@@ -2,10 +2,10 @@
 baseurl: "https://photos.lorderikir.me"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "UA-120714098-2"
 
 # UI configs
-title: "Photography by Eric Jiang"
+title: "Photos by Eric Jiang"
 subtitle: "I build software, love travelling and enjoy taking photos"
 author: "Eric Jiang"
 header:
